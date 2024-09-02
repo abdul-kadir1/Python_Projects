@@ -1,6 +1,6 @@
 import time
 
-print("Please Enter your CARD")
+print("Please Enter your CARD...")
 time.sleep(4)
 
 password = 1234
@@ -71,3 +71,5 @@ if pin == password:
 
 else:
     print("Wrong pin. Please try again.")
+
+
